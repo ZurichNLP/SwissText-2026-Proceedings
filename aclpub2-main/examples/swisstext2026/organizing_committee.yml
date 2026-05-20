@@ -1,0 +1,63 @@
+- role: General Chair
+  members:
+    - first_name: Rico
+      last_name: Sennrich
+      institution: University of Zurich
+
+- role: Program Chairs
+  members:
+    - first_name: Gerold
+      last_name: Schneider
+      institution: University of Zurich
+    - first_name: Yingqiang
+      last_name: Gao
+      institution: University of Zurich
+    - first_name: Tilia
+      last_name: Ellendorff
+      institution: University of Zurich
+    - first_name: Jannis
+      last_name: Vamvas
+      institution: University of Zurich
+
+- role: Local Organizers
+  members:
+    - first_name: Jannis
+      last_name: Vamvas
+      institution: University of Zurich
+    - first_name: Yingqiang
+      last_name: Gao
+      institution: University of Zurich
+    - first_name: Michelle
+      last_name: Wastl
+      institution: University of Zurich
+    - first_name: Gerold
+      last_name: Schneider
+      institution: University of Zurich
+    - first_name: Tilia
+      last_name: Ellendorff
+      institution: University of Zurich
+    - first_name: Maria Christina
+      last_name: Panagiotopoulou
+      institution: University of Zurich
+
+- role: Invited Speakers
+  members:
+    - first_name: Alexandra
+      last_name: Birch
+      institution: School of Informatics, University of Edinburgh / Aveni.ai
+    - first_name: Valentina
+      last_name: Pyatkin
+      institution: Allen Institute for AI / ETH AI Center
+
+- role: Volunteers
+  members:
+    - first_name: Zachary
+      last_name: Hopton
+    - first_name: Annalena
+      last_name: Alber
+    - first_name: Sophia
+      last_name: Conrad
+    - first_name: Kirill
+      last_name: Semenov
+    - first_name: Jana
+      last_name: Massoud

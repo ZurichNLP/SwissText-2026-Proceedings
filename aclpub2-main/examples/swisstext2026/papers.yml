@@ -1,0 +1,374 @@
+- id: 2
+  title: Reinforcement Learning for Latent-Space Thinking in LLMs
+  file: 2_Reinforcement_Learning_for_L.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Enes
+      last_name: Özeren
+    - first_name: Matthias
+      last_name: Assenmacher
+
+- id: 3
+  title: Enhancing Retrieval via Cognitively Motivated Document Expansion
+  file: 3_Enhancing_Retrieval_via_Cogn.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Giacomo
+      last_name: Loss
+    - first_name: Andreas
+      last_name: Stephan
+    - first_name: Matthias
+      last_name: Assenmacher
+
+- id: 5
+  title: An Efficient Approach for Answering Not Readily Attainable Questions for RAG-based Applications
+  file: 5_An_Efficient_Approach_for_An.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Zhengdao
+      last_name: Chen
+    - first_name: Christian
+      last_name: Heumann
+    - first_name: Matthias
+      last_name: Assenmacher
+
+- id: 7
+  title: "Concept Extraction and Webb’s Depth of Knowledge: Comparing LLM Question Generation Pipelines for Educational Assessment"
+  file: 7_Concept_Extraction_and_Webb_.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Dmitriy
+      last_name: An
+    - first_name: Andrew
+      last_name: Paice
+    - first_name: Petra
+      last_name: Müller-Csernetzky
+    - first_name: Aliaksei
+      last_name: Andrushevich
+
+- id: 11
+  title: "Optimizing Large Language Models for Robust Domain-Specific Text-to-SQL: From Prompting to Preference Alignment"
+  file: 11_Optimizing_Large_Language_M.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Noah
+      last_name: Hampp
+    - first_name: Katya
+      last_name: Mirylenka
+    - first_name: Michael
+      last_name: Glass
+
+- id: 13
+  title: "Call Support Copilot: A Reproducible Multimodal System for Speech Emotion Recognition, Intent Understanding, and Agent Assistance"
+  file: 13_Call_Support_Copilot_A_Repr.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Khoshimov
+      last_name: Rakhmatillokhon
+    - first_name: Dmitry
+      last_name: Rudshin
+    - first_name: Yanyang
+      last_name: Luo
+
+- id: 15
+  title: Text vs. Phoneme Intermediates for Low-Resource Swiss German
+  file: 15_Text_vs_Phoneme_Intermediat.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Reza
+      last_name: Kakooee
+    - first_name: Vincenzo
+      last_name: Timmel
+    - first_name: Daniel Olivier
+      last_name: Perruchoud
+    - first_name: Michael
+      last_name: Graber
+    - first_name: Manfred
+      last_name: "Vogel     "
+
+- id: 20
+  title: "Extending the Contact Hypothesis: Cross-Linguistic Evaluation of Religion and Nationality Bias When Prompting LLMs in German and Icelandic"
+  file: 20_Extending_the_Contact_Hypot.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Ikae
+      last_name: Catherine
+    - first_name: "Guðbjörg Linda"
+      last_name: Rafnsdóttir
+    - first_name: Ragna Kemp
+      last_name: Haraldsdóttir
+    - first_name: Mascha
+      last_name: Kurpicz-Briki
+
+- id: 21
+  title: Robust Language Identification for Romansh Varieties
+  file: 21_Robust_Language_Identificat.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Charlotte
+      last_name: Model
+    - first_name: Sina
+      last_name: Ahmadi
+    - first_name: Jannis
+      last_name: Vamvas
+
+- id: 30
+  title: Skill Extraction from Resumes and Job Offers across Six Languages
+  file: 30_Skill_Extraction_from_Resum.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Laura
+      last_name: Vásquez-Rodríguez
+    - first_name: Bertrand
+      last_name: Audrin
+    - first_name: Samuel
+      last_name: Michel
+    - first_name: Samuele
+      last_name: Galli
+    - first_name: Julneth
+      last_name: Rogenhofer
+    - first_name: Jacopo Negro
+      last_name: Cusa
+    - first_name: Lonneke
+      last_name: van der Plas
+
+- id: 33
+  title: "RUMLEM: A Dictionary-Based Lemmatizer for Romansh"
+  file: 33_RUMLEM_A_Dictionary_Based_L.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Dominic P.
+      last_name: Fischer
+    - first_name: Zachary
+      last_name: Hopton
+    - first_name: Jannis
+      last_name: Vamvas
+
+- id: 36
+  title: Graph-Augmented LLMs for Swiss MP Ideology Prediction
+  file: 36_Graph_Augmented_LLMs_for_Sw.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Yifei
+      last_name: Yuan
+    - first_name: Luis
+      last_name: Salamanca
+    - first_name: Sophia
+      last_name: Schlosser
+    - first_name: Laurence
+      last_name: Brandenberger
+
+- id: 37
+  title: Extracting Article-Level Legal Dependencies from Swiss Federal Law using LLMs
+  file: 37_Extracting_Article_Level_Le.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Steven
+      last_name: Cho
+    - first_name: Anna
+      last_name: Kiepura
+    - first_name: Jessica
+      last_name: Lam
+    - first_name: Richard
+      last_name: Hahnloser
+
+- id: 39
+  title: "Data Augmentation for Historical NER: A Systematic Comparison of Lexical and LLM-based Approaches"
+  file: 39_Data_Augmentation_for_Histo.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Léa
+      last_name: Blinière
+    - first_name: Maud
+      last_name: Ehrmann
+    - first_name: Emanuela
+      last_name: Boros
+    - first_name: Simon
+      last_name: Clematide
+    - first_name: Frederic
+      last_name: Kaplan
+
+- id: 41
+  title: Code-Switching Detection in Multilingual Child Speech with SwissBERT
+  file: 41_Code_Switching_Detection_in.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Agnese
+      last_name: D'Angelo
+    - first_name: Sina
+      last_name: Ahmadi
+    - first_name: Moritz M.
+      last_name: Daum
+    - first_name: Stephanie
+      last_name: Wermelinger
+
+- id: 44
+  title: Which Skills Debate Reaches the Public? Comparing Scientific Literature and Media Coverage of AI and LLM Skill Impacts (2022–2025)
+  file: 44_Which_Skills_Debate_Reaches.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Maud
+      last_name: Reveilhac
+    - first_name: Gerold
+      last_name: Schneider
+    - first_name: Bohdan
+      last_name: Trembovelskyi
+    - first_name: Nisha
+      last_name: Yadav
+    - first_name: Vlada
+      last_name: Druta
+    - first_name: Aurelia
+      last_name: Tamò-Larrieux
+    - first_name: Simon
+      last_name: Mayer
+    - first_name: Clement
+      last_name: Guitton
+    - first_name: Joshua C.
+      last_name: Yang
+
+- id: 46
+  title: "The Same Email, Signed Differently: Testing Negotiation Bias and Recommendation Stability in LLMs"
+  file: 46_The_Same_Email_Signed_Diffe.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Jasmin
+      last_name: Heierli
+    - first_name: Alexandre
+      last_name: de Spindler
+
+- id: 47
+  title: "A Bounded Coordination-Support Capability for Multi-Party Settings: Task-State Monitoring in Firefighter Incident Command"
+  file: 47_A_Bounded_Coordination_Supp.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: David
+      last_name: Grünert
+    - first_name: Barbara
+      last_name: Morgenstern
+    - first_name: Florian
+      last_name: Peczinka
+    - first_name: Dario
+      last_name: Holenstein
+    - first_name: Roland
+      last_name: Brunner
+    - first_name: Alexandre
+      last_name: de Spindler
+
+- id: 49
+  title: Can Large Language Models Replace Statistical Software?
+  file: 49_Can_Large_Language_Models_R.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Yves
+      last_name: Staudt
+
+- id: 51
+  title: Automated German Alt Text Generation for News Charts
+  file: 51_Automated_German_Alt_Text_G.pdf
+  archival: true
+  attributes:
+    submitted_area: Scientific Track
+    paper_type: scientific
+  authors:
+    - first_name: Alessia
+      last_name: Vannini
+    - first_name: Julia
+      last_name: Locher
+    - first_name: Marianne
+      last_name: Santaholma
+    - first_name: Claudia
+      last_name: Amsler
+    - first_name: Jonas
+      last_name: Oesch
+    - first_name: Arzu
+      last_name: Coltekin
+
+- id: 22
+  title: A Dataset of Latin Etymologies Extracted from Wiktionary
+  file: 22_A_Dataset_of_Latin_Etymolog.pdf
+  archival: true
+  attributes:
+    submitted_area: Corpus Track
+    paper_type: corpus
+  authors:
+    - first_name: Javier
+      middle_name: de Torres
+      last_name: Méndez
+    - first_name: Marco Carlo
+      last_name: Passarotti
+    - first_name: Giovanni
+      last_name: Moretti
+    - first_name: Francesco
+      last_name: Mambrini
+    - first_name: Matteo
+      last_name: Pellegrini
+
+- id: 53
+  title: "How Good is AI on Swiss Voting Booklets? A Multilingual OCR and Alignment Benchmark"
+  file: 53_How_Good_is_AI_on_Swiss_Vot.pdf
+  archival: true
+  attributes:
+    submitted_area: Corpus Track
+    paper_type: corpus
+  authors:
+    - first_name: Elina
+      last_name: Stüssi
+    - first_name: Jannis
+      last_name: Vamvas
