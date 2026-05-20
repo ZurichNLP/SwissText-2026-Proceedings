@@ -32,6 +32,11 @@ python ./bin/generate examples/swisstext2026 --proceedings --overwrite
 
 The output PDF will be placed in `aclpub2-main/output/proceedings.pdf`. The `--overwrite` flag allows re-running without manually deleting previous outputs.
 
+## Outputs
+
+- Proceedings PDF: `aclpub2-main/output/proceedings.pdf`
+- Watermarked PDFs: `aclpub2-main/output/watermarked_pdfs/`
+
 ## Contact
 
 - Yingqiang Gao, yingqiang.gao@uzh.ch

@@ -1,5 +1,4 @@
 /build
-/output
 */__pycache__/
 *.log
 *.aux

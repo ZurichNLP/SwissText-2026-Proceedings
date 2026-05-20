@@ -1,0 +1,26 @@
+book_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+event_name: SwissText 2026
+cover_subtitle: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+anthology_venue_id: SwissText
+start_date: 2026-06-10
+end_date: 2026-06-10
+location: Zurich, Switzerland
+
+editors:
+  - first_name: Prof. Dr. Rico
+    last_name: Sennrich
+  - first_name: Prof. Dr. Gerold
+    last_name: Schneider
+  - first_name: Dr. Tilia
+    last_name: Ellendorff
+  - first_name: Dr. Yingqiang
+    last_name: Gao
+  - first_name: Dr. Jannis
+    last_name: Vamvas
+  - first_name: Prof. Dr. Mark
+    last_name: Cieliebak
+
+publisher: Association for Computational Linguistics
+volume_name: 1
+
+watermark_book_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference (SwissText 2026)

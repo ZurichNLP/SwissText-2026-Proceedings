@@ -1,0 +1,13 @@
+- title: "From Metrics to Models: Reproducible Research in Multilingual NLP"
+  abstract_file: alexandra_birch_abstract.tex
+  speaker:
+    first_name: Alexandra
+    last_name: Birch
+    institution: School of Informatics, University of Edinburgh / Aveni.ai
+
+- title: "Lessons from Building, Training and Evaluating Open Language Models"
+  abstract_file: valentina_pyatkin_abstract.tex
+  speaker:
+    first_name: Valentina
+    last_name: Pyatkin
+    institution: Allen Institute for AI / ETH AI Center

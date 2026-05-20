@@ -1,0 +1,54 @@
+- role: Program Committee
+  type: name_block
+  entries:
+    - first_name: Elliott
+      last_name: Ash
+    - first_name: Fernando
+      last_name: Benites
+    - first_name: Miriam
+      last_name: Butt
+    - first_name: Mark
+      last_name: Cieliebak
+    - first_name: Simon
+      last_name: Clematide
+    - first_name: Yingqiang
+      last_name: Gao
+    - first_name: Jonathan
+      last_name: Gerber
+    - first_name: Brigitte
+      last_name: Krenn
+    - first_name: Wolfgang
+      last_name: Menzel
+    - first_name: Margot
+      last_name: Mieskes
+    - first_name: Andrei
+      last_name: Popescu-Belis
+    - first_name: Annette
+      last_name: Rios
+    - first_name: Josef
+      last_name: Ruppenhofer
+    - first_name: Tanja
+      last_name: Samardzic
+    - first_name: Tatjana
+      last_name: Scheffler
+    - first_name: Helmut
+      last_name: Schmid
+    - first_name: Gerold
+      last_name: Schneider
+    - first_name: Manfred
+      last_name: Stede
+    - first_name: Don
+      last_name: Tuggener
+    - first_name: Ahmet
+      middle_name: Yavuz
+      last_name: Uluslu
+    - first_name: Junling
+      last_name: Wang
+    - first_name: Egon
+      last_name: Werlen
+    - first_name: Torsten
+      last_name: Zesch
+    - first_name: Heike
+      last_name: Zinsmeister
+    - first_name: Vilém
+      last_name: Zouhar

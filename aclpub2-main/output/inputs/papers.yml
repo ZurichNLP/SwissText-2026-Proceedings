@@ -1,0 +1,496 @@
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Enes
+    last_name: "\xD6zeren"
+  - first_name: Matthias
+    last_name: Assenmacher
+  end_page: 17
+  file: 2_Reinforcement_Learning_for_L.pdf
+  id: 2
+  num_pages: 16
+  start_page: 2
+  title: Reinforcement Learning for Latent-Space Thinking in LLMs
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Giacomo
+    last_name: Loss
+  - first_name: Andreas
+    last_name: Stephan
+  - first_name: Matthias
+    last_name: Assenmacher
+  end_page: 29
+  file: 3_Enhancing_Retrieval_via_Cogn.pdf
+  id: 3
+  num_pages: 12
+  start_page: 18
+  title: Enhancing Retrieval via Cognitively Motivated Document Expansion
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Zhengdao
+    last_name: Chen
+  - first_name: Christian
+    last_name: Heumann
+  - first_name: Matthias
+    last_name: Assenmacher
+  end_page: 52
+  file: 5_An_Efficient_Approach_for_An.pdf
+  id: 5
+  num_pages: 23
+  start_page: 30
+  title: An Efficient Approach for Answering Not Readily Attainable Questions for
+    RAG-based Applications
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Dmitriy
+    last_name: An
+  - first_name: Andrew
+    last_name: Paice
+  - first_name: Petra
+    last_name: "M\xFCller-Csernetzky"
+  - first_name: Aliaksei
+    last_name: Andrushevich
+  end_page: 63
+  file: 7_Concept_Extraction_and_Webb_.pdf
+  id: 7
+  num_pages: 11
+  start_page: 53
+  title: 'Concept Extraction and Webb''s Depth of Knowledge: Comparing LLM Question
+    Generation Pipelines for Educational Assessment'
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Noah
+    last_name: Hampp
+  - first_name: Katya
+    last_name: Mirylenka
+  - first_name: Michael
+    last_name: Glass
+  end_page: 75
+  file: 11_Optimizing_Large_Language_M.pdf
+  id: 11
+  num_pages: 12
+  start_page: 64
+  title: 'Optimizing Large Language Models for Robust Domain-Specific Text-to-SQL:
+    From Prompting to Preference Alignment'
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Khoshimov
+    last_name: Rakhmatillokhon
+  - first_name: Dmitry
+    last_name: Rudshin
+  - first_name: Yanyang
+    last_name: Luo
+  end_page: 82
+  file: 13_Call_Support_Copilot_A_Repr.pdf
+  id: 13
+  num_pages: 7
+  start_page: 76
+  title: 'Call Support Copilot: A Reproducible Multimodal System for Speech Emotion
+    Recognition, Intent Understanding, and Agent Assistance'
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Reza
+    last_name: Kakooee
+  - first_name: Vincenzo
+    last_name: Timmel
+  - first_name: Daniel Olivier
+    last_name: Perruchoud
+  - first_name: Michael
+    last_name: Graber
+  - first_name: Manfred
+    last_name: 'Vogel     '
+  end_page: 90
+  file: 15_Text_vs_Phoneme_Intermediat.pdf
+  id: 15
+  num_pages: 8
+  start_page: 83
+  title: Text vs. Phoneme Intermediates for Low-Resource Swiss German
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Ikae
+    last_name: Catherine
+  - first_name: "Gu\xF0bj\xF6rg Linda"
+    last_name: "Rafnsd\xF3ttir"
+  - first_name: Ragna Kemp
+    last_name: "Haraldsd\xF3ttir"
+  - first_name: Mascha
+    last_name: Kurpicz-Briki
+  end_page: 101
+  file: 20_Extending_the_Contact_Hypot.pdf
+  id: 20
+  num_pages: 11
+  start_page: 91
+  title: 'Extending the Contact Hypothesis: Cross-Linguistic Evaluation of Religion
+    and Nationality Bias When Prompting LLMs in German and Icelandic'
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Charlotte
+    last_name: Model
+  - first_name: Sina
+    last_name: Ahmadi
+  - first_name: Jannis
+    last_name: Vamvas
+  end_page: 111
+  file: 21_Robust_Language_Identificat.pdf
+  id: 21
+  num_pages: 10
+  start_page: 102
+  title: Robust Language Identification for Romansh Varieties
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Laura
+    last_name: "V\xE1squez-Rodr\xEDguez"
+  - first_name: Bertrand
+    last_name: Audrin
+  - first_name: Samuel
+    last_name: Michel
+  - first_name: Samuele
+    last_name: Galli
+  - first_name: Julneth
+    last_name: Rogenhofer
+  - first_name: Jacopo Negro
+    last_name: Cusa
+  - first_name: Lonneke
+    last_name: van der Plas
+  end_page: 125
+  file: 30_Skill_Extraction_from_Resum.pdf
+  id: 30
+  num_pages: 14
+  start_page: 112
+  title: Skill Extraction from Resumes and Job Offers across Six Languages
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Dominic P.
+    last_name: Fischer
+  - first_name: Zachary
+    last_name: Hopton
+  - first_name: Jannis
+    last_name: Vamvas
+  end_page: 133
+  file: 33_RUMLEM_A_Dictionary_Based_L.pdf
+  id: 33
+  num_pages: 8
+  start_page: 126
+  title: 'RUMLEM: A Dictionary-Based Lemmatizer for Romansh'
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Yifei
+    last_name: Yuan
+  - first_name: Luis
+    last_name: Salamanca
+  - first_name: Sophia
+    last_name: Schlosser
+  - first_name: Laurence
+    last_name: Brandenberger
+  end_page: 146
+  file: 36_Graph_Augmented_LLMs_for_Sw.pdf
+  id: 36
+  num_pages: 13
+  start_page: 134
+  title: Graph-Augmented LLMs for Swiss MP Ideology Prediction
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Steven
+    last_name: Cho
+  - first_name: Anna
+    last_name: Kiepura
+  - first_name: Jessica
+    last_name: Lam
+  - first_name: Richard
+    last_name: Hahnloser
+  end_page: 154
+  file: 37_Extracting_Article_Level_Le.pdf
+  id: 37
+  num_pages: 8
+  start_page: 147
+  title: Extracting Article-Level Legal Dependencies from Swiss Federal Law using
+    LLMs
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: "L\xE9a"
+    last_name: "Blini\xE8re"
+  - first_name: Maud
+    last_name: Ehrmann
+  - first_name: Emanuela
+    last_name: Boros
+  - first_name: Simon
+    last_name: Clematide
+  - first_name: Frederic
+    last_name: Kaplan
+  end_page: 171
+  file: 39_Data_Augmentation_for_Histo.pdf
+  id: 39
+  num_pages: 17
+  start_page: 155
+  title: 'Data Augmentation for Historical NER: A Systematic Comparison of Lexical
+    and LLM-based Approaches'
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Agnese
+    last_name: D'Angelo
+  - first_name: Sina
+    last_name: Ahmadi
+  - first_name: Moritz M.
+    last_name: Daum
+  - first_name: Stephanie
+    last_name: Wermelinger
+  end_page: 179
+  file: 41_Code_Switching_Detection_in.pdf
+  id: 41
+  num_pages: 8
+  start_page: 172
+  title: Code-Switching Detection in Multilingual Child Speech with SwissBERT
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Maud
+    last_name: Reveilhac
+  - first_name: Gerold
+    last_name: Schneider
+  - first_name: Bohdan
+    last_name: Trembovelskyi
+  - first_name: Nisha
+    last_name: Yadav
+  - first_name: Vlada
+    last_name: Druta
+  - first_name: Aurelia
+    last_name: "Tam\xF2-Larrieux"
+  - first_name: Simon
+    last_name: Mayer
+  - first_name: Clement
+    last_name: Guitton
+  - first_name: Joshua C.
+    last_name: Yang
+  end_page: 191
+  file: 44_Which_Skills_Debate_Reaches.pdf
+  id: 44
+  num_pages: 12
+  start_page: 180
+  title: "Which Skills Debate Reaches the Public? Comparing Scientific Literature\
+    \ and Media Coverage of AI and LLM Skill Impacts (2022\u20132025)"
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Jasmin
+    last_name: Heierli
+  - first_name: Alexandre
+    last_name: de Spindler
+  end_page: 196
+  file: 46_The_Same_Email_Signed_Diffe.pdf
+  id: 46
+  num_pages: 5
+  start_page: 192
+  title: 'The Same Email, Signed Differently: Testing Negotiation Bias and Recommendation
+    Stability in LLMs'
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: David
+    last_name: "Gr\xFCnert"
+  - first_name: Barbara
+    last_name: Morgenstern
+  - first_name: Florian
+    last_name: Peczinka
+  - first_name: Dario
+    last_name: Holenstein
+  - first_name: Roland
+    last_name: Brunner
+  - first_name: Alexandre
+    last_name: de Spindler
+  end_page: 205
+  file: 47_A_Bounded_Coordination_Supp.pdf
+  id: 47
+  num_pages: 9
+  start_page: 197
+  title: 'A Bounded Coordination-Support Capability for Multi-Party Settings: Task-State
+    Monitoring in Firefighter Incident Command'
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Yves
+    last_name: Staudt
+  end_page: 214
+  file: 49_Can_Large_Language_Models_R.pdf
+  id: 49
+  num_pages: 9
+  start_page: 206
+  title: Can Large Language Models Replace Statistical Software?
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: scientific
+    submitted_area: Scientific Track
+  authors:
+  - first_name: Alessia
+    last_name: Vannini
+  - first_name: Julia
+    last_name: Locher
+  - first_name: Marianne
+    last_name: Santaholma
+  - first_name: Claudia
+    last_name: Amsler
+  - first_name: Jonas
+    last_name: Oesch
+  - first_name: Arzu
+    last_name: Coltekin
+  end_page: 224
+  file: 51_Automated_German_Alt_Text_G.pdf
+  id: 51
+  num_pages: 10
+  start_page: 215
+  title: Automated German Alt Text Generation for News Charts
+  track: Scientific Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Scientific Track
+- archival: true
+  attributes:
+    paper_type: corpus
+    submitted_area: Corpus Track
+  authors:
+  - first_name: Javier
+    last_name: "M\xE9ndez"
+    middle_name: de Torres
+  - first_name: Marco Carlo
+    last_name: Passarotti
+  - first_name: Giovanni
+    last_name: Moretti
+  - first_name: Francesco
+    last_name: Mambrini
+  - first_name: Matteo
+    last_name: Pellegrini
+  end_page: 233
+  file: 22_A_Dataset_of_Latin_Etymolog.pdf
+  id: 22
+  num_pages: 8
+  start_page: 226
+  title: A Dataset of Latin Etymologies Extracted from Wiktionary
+  track: Corpus Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Corpus Track
+- archival: true
+  attributes:
+    paper_type: corpus
+    submitted_area: Corpus Track
+  authors:
+  - first_name: Elina
+    last_name: "St\xFCssi"
+  - first_name: Jannis
+    last_name: Vamvas
+  end_page: 244
+  file: 53_How_Good_is_AI_on_Swiss_Vot.pdf
+  id: 53
+  num_pages: 11
+  start_page: 234
+  title: How Good is AI on Swiss Voting Booklets? A Multilingual OCR and Alignment
+    Benchmark
+  track: Corpus Track
+  watermark_title: Proceedings of the 11th Edition of the Swiss Text Analytics Conference
+    (SwissText 2026) -- Corpus Track
