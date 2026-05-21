@@ -36,6 +36,7 @@ The output PDF will be placed in `aclpub2-main/output/proceedings.pdf`. The `--o
 
 - Proceedings PDF: `aclpub2-main/output/proceedings.pdf`
 - Watermarked PDFs: `aclpub2-main/output/watermarked_pdfs/`
+- Google Drive (outputs download): https://drive.google.com/drive/folders/1Q0IIgOrMq-YQzrGehWVSWHUeY6-vEG5K?usp=drive_link
 
 ## Contact
 
